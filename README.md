@@ -42,7 +42,7 @@ Power BI (Data Modeling, DAX, Dashboard Design)
 
 CSV files for structured data
 
-(Optional) SQL/Python for data preprocessing if used
+
 
 ✅ Outcomes
 Identified high-performing hotel clusters
